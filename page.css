@@ -1,10 +1,52 @@
 
 .footer{
     position: fixed;
-    left: 0;
+    left: 5;
     bottom: 0;
     width: 100%;
-    background-color: lightgrey;
+    height: 7%;
+    font-size: 20px;
+    background-color: #f2f2f2;
     color: grey;
     text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.searchbar{
+    width: 30%;
+    margin:auto;
+    position: absolute;
+    top: 50%;
+    right: 35%;
+    text-align:left;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    border: 1px solid grey;
+    border-radius: 25px;
+    height: 3%;
+}
+
+.googleLogo{
+    display: block;
+    position: absolute;
+    top: 40%;
+    right: 44%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.button1{
+    position: absolute;
+    top: 55%;
+    right: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.button2{
+    position: absolute;
+    top: 55%;
+    right: 43%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
 }
