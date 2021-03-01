@@ -5,4 +5,5 @@ This work will show some HTML / CSS understanding.
 
 Good luck new me!
 
-![Uploading animatedGIF.gif…]()
+![animatedGIF](https://user-images.githubusercontent.com/54751624/109554769-578ab000-7add-11eb-8eec-ca2259d5956d.gif)
+
